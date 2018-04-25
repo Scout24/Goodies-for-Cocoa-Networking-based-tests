@@ -1,2 +1,2 @@
-# URLProtocolMock
-Example iOS application and goodies for Cocoa Networking based Testing
+# Goodies for Cocoa Networking based Testing
+Example iOS application and presentation 
