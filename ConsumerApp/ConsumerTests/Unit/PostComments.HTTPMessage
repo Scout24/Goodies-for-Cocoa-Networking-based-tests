@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+content-type: application/json
+
+[
+{
+"postId": 42,
+"id": 206,
+"name": "mocked response",
+"email": "mocked@autoscout24.com",
+"body": "nam iusto minus expedita numquam\net id quis\nvoluptatibus minima porro facilis dolores beatae aut sit\naut quia suscipit"
+}
+]
